@@ -5,20 +5,20 @@ React is a popular JavaScript library for building user interfaces. Here are som
 ## Features of React
 Component-based architecture: React allows developers to build UI components that can be reused throughout the application, making it easy to manage and maintain large-scale projects.
 
-### Virtual DOM
+#### Virtual DOM
 React uses a virtual representation of the actual DOM, which allows for faster rendering and better performance.
 
-### JSX syntax
+#### JSX syntax
  React uses a syntax called JSX, which allows developers to write HTML-like code in their JavaScript files. This makes it easy to create and manipulate UI elements.
 
-### Unidirectional data flow
+#### Unidirectional data flow
  React follows a unidirectional data flow model, where data is passed down from parent components to child components. This makes it easy to manage the state of an application.
 
-### Extensive ecosystem
+#### Extensive ecosystem
  React has a large and active community that creates and maintains a wide variety of libraries and tools, making it easy to extend and customize your application.
 
 ## Advantages of React
-### Fast rendering
+#### Fast rendering
  React's use of the virtual DOM and efficient rendering algorithm make it fast and performant, even for complex applications.
 
 Reusable components: React's component-based architecture makes it easy to create reusable UI components, reducing development time and improving code maintainability.
