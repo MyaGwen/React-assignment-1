@@ -1,7 +1,7 @@
 import React from 'react';
 
 function Main() {
-  const country = 'Canada';
+  const country = 'Ghana';
 
   return (
     <main>
