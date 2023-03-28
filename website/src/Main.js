@@ -8,7 +8,7 @@ function Main() {
       <section>
         <h2>About Us</h2>
         <p>
-          We are a small team of web developers based in {country}. We
+          We are a team of web developers based in {country}. We
           specialize in creating modern and responsive websites for businesses
           and individuals.
         </p>
